@@ -9,4 +9,4 @@ Assignment for my Web app class
 
   The biggest challenge I faced was figuring out what was wrong with my code. I had to change my server.js extension to 'mjs', so It could work with the dog_facts.js file. Also, I learned how to enable ES6 module support for my Node.js project. I just had to add "type": "module" in my package.json.
 
- However, as per your request to keep the dog_facts.js unchanged, you'll likely want to enable ES6 module support in your Node.js project.
+ 
